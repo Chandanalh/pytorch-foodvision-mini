@@ -11,8 +11,8 @@ End-to-end deep learning pipeline built with PyTorch.
 Modular structure for easy extension and experimentation.
 
 Includes:
-Data loading and preprocessing
-Model training and evaluation
-Accuracy/loss visualization
-Sample prediction visualization
+Data loading and preprocessing,
+Model training and evaluation,
+Accuracy/loss visualization,
+Sample prediction visualization,
 Comparison of performance between a basic CNN (TinyVGG) and a powerful pretrained model (EfficientNet-B0).
